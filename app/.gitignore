@@ -1,0 +1,7 @@
+/build
+.gradle
+.iml
+.pro
+
+signing.properties
+/.externalNativeBuild
